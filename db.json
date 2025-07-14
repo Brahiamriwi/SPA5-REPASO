@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "names": "Robinson",
+      "lastnames": "Cortes",
+      "email": "andres@gmail.com",
+      "username": "andrescortes",
+      "password" : "password",
+      "id": "2138"
+    },
+    {
+      "names": "Robinson 2",
+      "lastnames": "Cortes",
+      "email": "andres2@gmail.com",
+      "username": "andrescortes2",
+      "password" : "password",
+      "id": "2138"
+    },
+    {
+      "names": "Robinson 3",
+      "lastnames": "Cortes",
+      "email": "andres3@gmail.com",
+      "username": "andrescortes3",
+      "password" : "password",
+      "id": "2138"
+    }
+  ]
+}
